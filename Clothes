@@ -1,0 +1,6 @@
+> my_pants = 42
+> my_shirt = "medium"
+> class(my_pants)
+[1] "numeric"
+> class(my_shirt)
+[1] "character"
